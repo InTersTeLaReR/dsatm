@@ -1,6 +1,6 @@
 #for DSATM hackathon by team CODESMITHS...Had a wonderfull experience
 import streamlit as st
-from phe import paillier
+
 import time
 import matplotlib.pyplot as plt
 import numpy as np
